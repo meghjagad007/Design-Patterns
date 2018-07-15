@@ -54,3 +54,12 @@ int main() {
 	cin.ignore();
 	return 0;
 }
+
+
+//Output
+/*
+
+Drawing a Rectangle
+Drawing a Circle
+
+*/
