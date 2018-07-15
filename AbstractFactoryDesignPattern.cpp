@@ -1,4 +1,4 @@
-//Factory pattern 
+//Abstract Factory pattern 
 //
 
 #include "stdafx.h"
